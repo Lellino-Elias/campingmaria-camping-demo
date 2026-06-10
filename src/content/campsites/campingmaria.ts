@@ -59,8 +59,8 @@ const campingmaria: CampsiteConfig = {
   ],
 
   trust: {
-    heading: "Klein, aber mit großer Geschichte",
-    headingEmphasis: "großer Geschichte",
+    heading: "Klein, aber mit großer Geschichte",
+    headingEmphasis: "großer Geschichte",
     intro:
       "Seit den 60er Jahren wird in Hollersbach gecampt. 2023 haben Eva & Hanspeter den Familienplatz wieder zum Leben erweckt — mit frisch renoviertem Sanitärbereich und der Herzlichkeit, die hier seit jeher zu Hause ist.",
   },
@@ -135,8 +135,8 @@ const campingmaria: CampsiteConfig = {
   },
 
   booking: {
-    heading: "Bereit für deinen Urlaub bei Camping Maria?",
-    headingEmphasis: "bei Camping Maria",
+    heading: "Bereit für deinen Urlaub bei Camping Maria?",
+    headingEmphasis: "bei Camping Maria",
     intro: "Wähle Zeitraum und Stellplatz — Eva & Hanspeter melden sich persönlich mit deiner Verfügbarkeit.",
     pricesArePlaceholder: false,
     priceNote:

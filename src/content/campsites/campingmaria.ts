@@ -16,8 +16,7 @@ const campingmaria: CampsiteConfig = {
   brandKind: "Dorfcamping",
   regionLong: "Nationalpark Hohe Tauern · Pinzgau · Salzburger Land",
 
-  theme: "schiefer",
-  heroVariant: "left",
+  heroVariant: "center",
 
   claim: "Dein Dorfcamping mitten in den Hohen Tauern",
   claimEmphasis: "Hohen Tauern",
@@ -155,7 +154,7 @@ const campingmaria: CampsiteConfig = {
     mail: "info@campingmaria.at",
     facebook: "https://www.facebook.com/HollersbacherDorfcamping/?locale=de_DE",
     adresse: "Hollersbach 6 · 5731 Hollersbach im Pinzgau · Österreich",
-    coords: { lat: 47.2739393, lng: 12.4203844 },
+    coords: { lat: 47.27393, lng: 12.420464 },
   },
 
   story: {
